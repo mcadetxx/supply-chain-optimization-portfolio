@@ -1,0 +1,68 @@
+# SUPPLY CHAIN NETWORK OPTIMIZATION PROJECT
+## Project Charter & Learning Roadmap
+
+---
+
+## EXECUTIVE SPONSOR MEMO
+
+**FROM:** Chief Supply Chain Officer, Sanwa Distribution  
+**TO:** Marck - Senior Operations Analyst  
+**DATE:** December 1, 2025  
+**RE:** Strategic Supply Chain Analytics Initiative - Project Authorization
+
+---
+
+### BUSINESS SITUATION
+
+RNDC currently manages a complex distribution network serving 30+ states with annual operational expenses exceeding $50M. Despite recent improvements, we face ongoing challenges:
+
+- **Demand Volatility:** 23% variance in monthly order volumes creating inventory imbalances
+- **Transportation Inefficiency:** Freight costs represent 18% of COGS, above industry benchmark of 14%
+- **Late Deliveries:** Current OTIF rate of 87% vs. industry best practice of 95%+
+- **Supplier Performance:** Inconsistent lead times causing stockouts and rush orders
+- **Limited Visibility:** Executive team lacks real-time insights into supply chain health
+
+### STRATEGIC INITIATIVE
+
+I am authorizing a **6-week intensive project** to develop a comprehensive Supply Chain Network Optimization platform that will:
+
+1. **Reduce transportation costs by 15-20%** through network optimization
+2. **Improve forecast accuracy to <8% MAPE** using advanced analytics
+3. **Increase OTIF to 95%+** through predictive delay detection
+4. **Provide executive visibility** via real-time Power BI dashboards
+5. **Quantify supplier performance** enabling data-driven vendor decisions
+
+### PROJECT AUTHORIZATION
+
+- **Budget:** $0 (internal project using open-source tools and public datasets)
+- **Duration:** 6 weeks (December 2, 2025 - January 10, 2026)
+- **Time Commitment:** 25-30 hours/week
+- **Team Size:** 1 (Marck - Sr. Operations Analyst)
+- **Reporting:** Weekly status updates to CSCO
+
+### SUCCESS CRITERIA
+
+This project will be considered successful if you deliver:
+
+✅ **Working SQL database** with star schema containing 180,000+ supply chain transactions  
+✅ **3+ predictive models** (demand forecasting, late delivery risk, route optimization)  
+✅ **Executive Power BI dashboard** with 15+ KPIs and drill-down capability  
+✅ **Documented insights** showing potential $2M+ annual cost savings  
+✅ **Reproducible codebase** on GitHub demonstrating technical excellence  
+
+### DELIVERABLES SCHEDULE
+
+- **Week 2:** Database design and EDA complete
+- **Week 4:** Python models developed and validated
+- **Week 6:** Power BI dashboards and final presentation
+
+**This is a high-visibility project. Your success here will demonstrate readiness for advancement into senior analytics or consulting roles.**
+
+Let's discuss your project plan.
+
+---
+
+**[Signature]**  
+*Chief Supply Chain Officer*
+
+---
